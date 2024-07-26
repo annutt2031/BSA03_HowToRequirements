@@ -3,6 +3,8 @@
 Summary:
 In this project, you will learn the ways to elicit requirements and which of them to use in which cases. By applying different methods, you will elicit business requirements, build a functional role model, and learn how to document requirements.
 
+💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
+
 ## Contents
 
 1. [Chapter I](#chapter-i) \
@@ -280,5 +282,3 @@ Before brainstorming:
 5. Describe the boundaries of the project:
    1. The main roles of the system and their functions in the system.
 6. Place the document in the turn-in file ex03\_<product prefix>\_vision.docx.
-
-💡 [Tap here](https://forms.yandex.ru/cloud/65b908f6068ff008a5c88675/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
