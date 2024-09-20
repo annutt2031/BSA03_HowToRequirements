@@ -34,19 +34,19 @@ In this project, you will learn the ways to elicit requirements and which of the
 
 Nowhere are the interests of all project stakeholders more closely tied to the success of a project than at the requirements elicitation stage. Misunderstood, inconsistent, or incomplete requirements elicitation results in further significant changes to what has already been developed.  Here are the reasons why increased attention should be paid to requirements elicitation:
 
-- The customer knows what he wants, but can't put it into words;
-- The customer thinks he knows how to solve the problem (he brings the solution with him);
+- The customer knows what they want, but can't put it into words;
+- The customer thinks he knows how to solve the problem (he brings the solution);
 - The contractor thinks he knows better than the customer.
 
 In this project, you will learn about requirements elicitation techniques and apply some of them to solve your tasks. 
 
-This project is a group project. When performing the project tasks, you should first work through all the tasks and then perform them in an integrated manner. The results of the tasks in the form of Business Requirements and Functional Role Model should be placed in a single document: BRD (Business Requirements Document).
+This is a group project. When performing the project tasks, you should first work through all the tasks and then perform them in an integrated manner. The results of the tasks in the form of Business Requirements and Functional Role Model should be placed in a single document: BRD (Business Requirements Document).
 
 **Literature:**
 
 1. Karl Wiegers, Joy Beatty, "Software Requirements" 3rd edition, chapter 1 and others. 
 2. BABOK v3 "A Guide to the Business Analysis Body of Knowledge" IIBA.
-3. Dean Leffingwell, Don Widrig "Managing Software Requirements", part 1, chapter 4.
+3. Dean Leffingwell, Don Widrig "Managing Software Requirements", Part 1, Chapter 4.
 4. Kaner S., Lind L., Toldi K. "Facilitator's Guide: to Participatory Decision-Making".
 5. Ilya Kornipaev "Requirements for Software: Recommendations on Gathering and Documentation".
 
@@ -71,20 +71,20 @@ This project is a group project. When performing the project tasks, you should f
 
 ### 1. Ways to Elicite Requirements <div id="31"></div>
 
-Requirements elicitation is a collaborative analytical process together with stakeholders. 
+Requirements elicitation is a collaborative analytical process with stakeholders. 
 
-The requirements should be:
+Requirements should be discovered:
 
-- discovered - you will not always be told about their existence: for example, legal requirements for mandatory breaks in employee schedules;
-- gathered - fixed, written down, so you don't lose them; 
-- set - for example, a constraint on the master's schedule: the client appointment must contain the master's lunch break time.
+- discovered — you will not always be told that they exist: for example, legal requirements for mandatory breaks in employee schedules;
+- gathered — fixed, written down so you don't lose them; 
+- fixed — for example, a constraint on the master's schedule: the client appointment must include the master's lunch break.
 
 Requirements elicitation is something you need to prepare for: 
 
-- gather information about the stakeholders and their concerns (if possible); 
-- familiarize yourself with the domain and terminology;
-- examine what is known about the task and the problems to be solved;
-- understand who is best to engage and with what methods.
+- Gather information about the stakeholders and their concerns (if possible).
+- Familiarize yourself with the domain and terminology.
+- Examine what is known about the task and the problems to be solved.
+- Understand who is best to engage and with what methods.
 
 Once the requirements have been identified, they need to be agreed with the stakeholders.
 
@@ -95,11 +95,11 @@ For a more complete understanding of requirements elicitation, it is recommended
 **Ways to Identify Requirements:**
 
 1. Documentation analysis; 
-2. System context analysis;
-3. Studying such systems;
+2. System Context Analysis;
+3. Study of such systems;
 4. Glossary;
 5. Interview;
-6. Focus groups;
+6. Focus Groups;
 7. Survey;
 8. Workshop;
 9. Brainstorming;
@@ -129,7 +129,7 @@ A business requirement is a high-level business goal of an organization or syste
 1. The problem(s) for which the system is being created or improved. 
 2. The environment, conditions, situation in which the system or organization finds itself.
 3. Opportunities that will solve problems with our system.
-4. Business goals of the system - the main goals for the fulfillment of which the system is built.
+4. Business goals of the system — the main goals for the fulfillment of which the system is built.
 5. In addition to  thebusiness goals, can be added:
    1. the tasks that must be performed to achieve the business goals;  
    2. the hierarchy of problems and objectives that realize the main business goal; 
@@ -149,7 +149,7 @@ Earlier, in the  BSA 02 project, you identified the roles, their needs, and the 
 
 The management of a chain of barbershops decided to implement an online booking system. The main objective is to develop the business by expanding the customer base through the possibility of online registration, as well as to reduce employee labour costs and manual labour by automatically informing customers through communication channels. 
 
-Both registered and unregistered visitors can book an appointment on the website. When making an appointment, they can select the type of service: hairdressing or cosmetology, as well as the service itself, the master and the time from the available intervals. The system should provide automatic sending of reminders to clients through the communication channel chosen by the client (Telegram, WhatsApp, VK, sms) according to the schedule set by the manager. After receiving a service, the system offers the client to evaluate the service and write suggestions on how to improve the work.
+Both registered and unregistered visitors can book an appointment on the website. When making an appointment, they can select the type of service: hairdressing or cosmetology, as well as the service itself, the master and the time from the available intervals. The system should provide automatic sending of reminders to clients through the communication channel chosen by the client (Telegram, WhatsApp, VK, SMS) according to the schedule set by the manager. After receiving a service, the system offers the client to evaluate the service and write suggestions on how to improve the work.
 
 The schedule of masters and the services provided by each master should be entered by the manager, who may be more than one person. This person is also responsible for keeping the schedule up to date and adjusting it if necessary, communicating with customers manually, marking the service, charging and accepting payment, sending the payment data to the accounting department. The manager can also receive reports on completed services and view customer feedback.
 
@@ -170,9 +170,9 @@ The first step was to collect orders from stores and caterers in any way possibl
 **For task 2:**
 
 1. Assign roles:
-   1. Choose the facilitator;
-   2. Select a group of clerks - 2-3 people; 
-   3. Assign the roles from the task description to the participants of the game;
+   1. Choose the facilitator.
+   2. Select a group of clerks — 2-3 people.
+   3. Assign the roles from the task description to the participants of the game.
    4. Include system developers as a team representative.
 2. Prepare for the game:
    1. Define the goals of the game as immersion in the task and identification:
@@ -195,7 +195,7 @@ The first step was to collect orders from stores and caterers in any way possibl
 
 1. Define the goal of the game as immersion in the task.
 2. After assigning roles to each participant:
-   1. Get into character;
+   1. Get into character.
    2. Explore the needs and abilities of the role.
 3. Make up a story, prepare a brief narrative about your role.
 4. Be prepared to answer questions from other team members.
@@ -204,21 +204,21 @@ The first step was to collect orders from stores and caterers in any way possibl
 
 **For task 2:**
 
-1. Determine brainstorming goals - identify:
-   1. Suggestions for forming business requirements;
+1. Determine brainstorming goals — identify:
+   1. Suggestions for formulating business requirements;
    2. Suggestions on the roles of system users, their problems as is;
-   3. Suggestions of users' needs and their possible actions in the to be system;
+   3. Suggestions of users' needs and their possible actions in the system to be;
    4. Suggestions for problems that are unclear how to solve in the task.
 
 For example, in task 1: how should the master deal with the schedule?
 
 1. Prepare for brainstorming:
-   1. Select a team member to briefly describe the problem;
-   2. Select a facilitator (a separate facilitator is possible for each goal);
-   3. Select a clerk to record all ideas;
-   4. Determine time and place of brainstorming session, let participants know. 
-2. Brainstorm, gather suggestions for each block from item 1.
-3. Prepare a protocol for the brainstorming session. Iclude:
+   1. Choose a team member to briefly describe the problem.
+   2. Choose a facilitator (a separate facilitator can be used for each goal).
+   3. Select a writer to record all ideas.
+   4. Set a time and place for the brainstorming session, and notify participants. 
+2. With a help of brainstorming, collect suggestions for each block from item 1.
+3. Prepare a protocol for the brainstorming session. Include:
    1. Results for each block;
    2. For each block, specify:
       1. facilitator, clerk; 
@@ -245,7 +245,7 @@ Before brainstorming:
    4. Solutions to the problems discussed in the brainstorming session;
    5. System boundaries in the form of functions performed by roles in the system.
 2. Prepare for the workshop:
-   1. Select a facilitator;
+   1. Select a facilitator.
    2. Select a team of clerks (2-3 people, for substitutes) who will take turns recording the result.
 3. Conduct a workshop.
 4. Prepare a report on the workshop. Include:
@@ -274,11 +274,11 @@ Before brainstorming:
    1. List of information sources;
    2. List of abbreviations, glossary;
    3. List of stakeholders, their roles in the system, brief description.
-4. Describe the business requirements (see section 3. "How to Describe Business Requirements"):
-   1. Problems for which the system is being created or finalized;
+4. Describe the business requirements (see Section 3. "How to Describe Business Requirements"):
+   1. Problems for which the system is being created or completed;
    2. Preconditions, environment, situation;
-   3. Opportunities to solve problems with our system;
-   4. Business goal(s) - the main objectives for which the system is built.
-5. Describe the boundaries of the project:
+   3. Possibilities to solve problems with our system;
+   4. Business goal(s) — the main goals for which the system is being built.
+5. Describe the scope of the project:
    1. The main roles of the system and their functions in the system.
 6. Place the document in the turn-in file ex03\_<product prefix>\_vision.docx.
